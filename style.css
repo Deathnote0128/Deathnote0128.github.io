@@ -441,10 +441,12 @@ img, svg { display: block; max-width: 100%; }
 
 .chips-row {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-start;
   gap: 12px;
   margin-top: 32px;
 }
+
 
 /* ============================================================
    PROJECTS
