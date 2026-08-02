@@ -1,15 +1,9 @@
-/* ============================================================
-   CONFIG — edit these as you add real GitHub projects/links
-   ============================================================ */
+
 const SITE_CONFIG = {
-  githubUsername: "", // e.g. "shobitha-rao" — fill in and the link below updates itself
+  githubUsername: "Deathnote0128",
 };
 
-/* ============================================================
-   DATA — add new project objects here any time; the grid
-   below renders straight from this array, so new GitHub repos
-   just need a new entry, no HTML edits required.
-   ============================================================ */
+
 const SKILLS = [
   { label: "Molecular Biology", type: "wet", items: ["DNA & RNA Isolation", "PCR", "Agarose Gel Electrophoresis", "Gel Prep & Documentation", "Primer Handling", "NanoDrop"] },
   { label: "Protein Analysis", type: "wet", items: ["SDS-PAGE", "Western Blotting", "Protein Extraction & Quantification"] },
